@@ -1,8 +1,8 @@
-import Header from "@/components/header";
-import Home from "@/components/home";
-import About from "@/components/about";
-import Footer from "@/components/footer";
-import Service from "@/components/service"
+import Header from '@components/header';
+import Home from '@components/home';
+import About from '@components/about';
+import Footer from '@components/footer';
+import Service from '@components/service';
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import '../styles/globals.css'
